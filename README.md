@@ -11,12 +11,17 @@
 
 - 👨‍💻 All of my projects are available at [https://hansss18.github.io/portfolio-hans/](https://hansss18.github.io/portfolio-hans/)
 
+- 📝 I regularly write articles on [https://hansss18.github.io/portfolio-hans/](https://hansss18.github.io/portfolio-hans/)
+
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **abgfarhan18@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/117f8TQD9eyKw88bP8LGoM8r4F--o4gZB?usp=sharing](https://drive.google.com/drive/folders/117f8TQD9eyKw88bP8LGoM8r4F--o4gZB?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/hansss.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hansss.18" height="30" width="40" /></a>
 <a href="https://twitter.com/farhan180202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhan180202" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/farhan-ab-g-74001a260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan-ab-g-74001a260" height="30" width="40" /></a>
 <a href="https://fb.com/farhan.a.ghani.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhan.a.ghani.90" height="30" width="40" /></a>
